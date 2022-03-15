@@ -41,9 +41,9 @@ small {
   font-size: 80%;
   font-weight: 300;
   position: relative;
-  display: block;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin: 0 auto;
 }
 .weather-app {
   border: 1px solid rgb(73, 148, 148);
