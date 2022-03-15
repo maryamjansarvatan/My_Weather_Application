@@ -40,7 +40,7 @@ a {
 small {
   font-size: 80%;
   font-weight: 300;
-  position: absolute;
+  position: center;
 }
 .weather-app {
   border: 1px solid rgb(73, 148, 148);
