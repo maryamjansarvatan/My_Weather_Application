@@ -33,6 +33,15 @@ div {
   display: block;
 }
 
+a {
+  color: #007bff;
+}
+
+small {
+  font-size: 80%;
+  font-weight: 300;
+  position: absolute;
+}
 .weather-app {
   border: 1px solid rgb(73, 148, 148);
   padding: 25px;
